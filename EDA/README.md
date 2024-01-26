@@ -1,4 +1,6 @@
-![Exploratory data analysis for Neighbourhood Safety Prediction](/images/London_safety/london_safety.png)
+<img src="https://github.com/YuliaVK/Data-Analytics/blob/main/EDA/images/london_safety.png" alt="Your Image Description" width="50%" height="50%">
+
+![Exploratory data analysis for Neighbourhood Safety Prediction](/images/london_safety.png)
 
 Data science is having a huge impact on the medical field, specifically in the area of cancer studies. In this project I will work with breast cancer data. This project focuses on data analysis using a simple step-by-step explanation.
 
@@ -86,6 +88,5 @@ In this summary, I will focus on the steps of EDA. I will explain what each step
 <a id="ch90"></a>
 
 # References
-
 
 
