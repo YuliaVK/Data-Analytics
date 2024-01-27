@@ -1,8 +1,9 @@
-<img src="https://github.com/YuliaVK/Data-Analytics/blob/main/EDA/images/london_safety.png" alt="Your Image Description" width="50%" height="50%">
+<p align="center">
+<img src="https://github.com/YuliaVK/Data-Analytics/blob/main/EDA/images/london_safety.png" alt="Exploratory data analysis for Neighbourhood Safety Prediction" width="30%" height="30%">
+</p>
 
-![Exploratory data analysis for Neighbourhood Safety Prediction](/images/london_safety.png)
 
-Data science is having a huge impact on the medical field, specifically in the area of cancer studies. In this project I will work with breast cancer data. This project focuses on data analysis using a simple step-by-step explanation.
+This part of portfolio focuses on my data analysis approach for [Neighbourhood Safety Prediction Project](https://github.com/mlsystemdesignproject/neighbourhood-safety-prediction#readme) using a simple step-by-step explanation.
 
 # Table of Contents
 1. [Chapter 1 - Project Overview](#ch1)
