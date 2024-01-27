@@ -31,9 +31,7 @@ Achieving this objective would require a detailed analysis of data related to va
 <a id="ch2"></a>
 # EDA Definition and Steps
 
-Exploratory data analysis is a method used by data scientists to investigate and summarize the characteristics of data sets. This can often be done through data visualization methods. The data science tool helps determine how best to use data sources to get the answers we need. This makes it easier for data scientists to discover patterns, spot anomalies, test a hypothesis, or check assumptions.
-
-EDA is a versatile data analysis tool that can help researchers and developers better understand the relationships between data set variables. The EDA techniques can help you determine if the statistical techniques you are considering are appropriate for the data you are working with.Originally developed by American mathematician John Tukey, these techniques are still widely used today in the data discovery process.
+Exploratory Data Analysis (EDA) is a versatile data analysis tool that can help us better understand the relationships between data set variables. This can often be done through data visualization methods. This makes it easier to discover patterns, spot anomalies, test a hypothesis, or check assumptions. 
 
 The process of data analysis involves organizing and summarizing the raw data, discovering important features and patterns in the data, and interpreting the findings.
 
@@ -46,7 +44,7 @@ Some outcomes of EDA:
 In this summary, I will focus on the steps of EDA. I will explain what each step is and what it involves.:
 
 - Data head and describe data (viewing data and its statistical information)
-- Target distribution (this is the distribution of malignant and benign data)
+- Target distribution (this is the distribution of crime data)
 - Features distribution (this is the distribution between the features)
 - Correlation matrix (this is a table that displays the correlation coefficients between different variables)
 - Positive correlated features
