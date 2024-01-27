@@ -1,6 +1,4 @@
-<p align="center">
 <img src="https://github.com/YuliaVK/Data-Analytics/blob/main/EDA/images/london_safety.png" alt="Exploratory data analysis for Neighbourhood Safety Prediction" width="30%" height="30%">
-</p>
 
 
 This part of portfolio focuses on my data analysis approach for [Neighbourhood Safety Prediction Project](https://github.com/mlsystemdesignproject/neighbourhood-safety-prediction#readme) using a simple step-by-step explanation.
