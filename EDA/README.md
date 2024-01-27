@@ -23,10 +23,17 @@ This part of portfolio focuses on my data analysis approach for [Neighbourhood S
 
 <a id="ch1"></a>
 # Project Overview
->The primary objective of our team is to develop a machine learning model that can accurately predict future safety levels for different London Boroughs. The aim of this effort is to enhance safety in London neighbourhoods through efficient resource allocation and by making relevant information available to residents. 
+>The primary objective of our team is to develop a machine learning model that can accurately predict future safety levels for different London Boroughs. <!-- The aim of this effort is to enhance safety in London neighbourhoods through efficient resource allocation and by making relevant information available to residents. -->
 
 Achieving this objective would require a detailed analysis of data related to various factors that can impact safety, such as past crime rates, demographic information, economic indicators and others. 
 
+The aim of the analysis is to gain insight on:
+1. Understanding the overall trends and patterns of crime in London Boroughs.
+2. Identifying the specific crime types that are most prevalent in the city.
+3. Analyzing correlation with population density and with number of tourist attractions in each Borough.
+4. Examining the impact of the COVID-19 pandemic on crime rates and understanding any resulting shifts or changes in criminal behavior.
+5. Uncovering any unique factors or insights that could contribute to a deeper understanding of crime dynamics in the city.
+6. Making final data preparation and suggestions prior the data modeling.
 
 <a id="ch2"></a>
 # EDA Definition and Steps
