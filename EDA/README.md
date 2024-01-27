@@ -1,7 +1,13 @@
-<img src="https://github.com/YuliaVK/Data-Analytics/blob/main/EDA/images/london_safety.png" alt="Exploratory data analysis for Neighbourhood Safety Prediction" width="50%" height="50%">
+<!-- <img src="https://github.com/YuliaVK/Data-Analytics/blob/main/EDA/images/london_safety.png" alt="Exploratory data analysis for Neighbourhood Safety Prediction" width="50%" height="50%"> -->
+
+<img align="left" src="./images/london_safety.png" width="50%" height="50%">
 
 
 This part of portfolio focuses on my data analysis approach for [Neighbourhood Safety Prediction Project](https://github.com/mlsystemdesignproject/neighbourhood-safety-prediction#readme) using a simple step-by-step explanation.
+
+>The primary objective of our team is to develop a machine learning model that can accurately predict future safety levels for different London Boroughs. The aim of this effort is to enhance safety in London neighbourhoods through efficient resource allocation and by making relevant information available to residents. 
+
+
 
 # Table of Contents
 1. [Chapter 1 - Project Overview](#ch1)
