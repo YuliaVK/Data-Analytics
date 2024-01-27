@@ -7,16 +7,16 @@ This part of portfolio focuses on my data analysis approach for [Neighbourhood S
 
 
 # Table of Contents
-1. [Chapter 1 - Project Overview](#ch1)
-2. [Chapter 2 - EDA Definition and Steps](#ch2)
-3. [Chapter 3 - Step 1: Data Gathering](#ch3)
-4. [Chapter 4 - Step 2: Head and describe](#ch4)
-5. [Chapter 5 - Step 3: Target distribution](#ch5)
-6. [Chapter 6 - Step 4: Features distribution](#ch6)
-7. [Chapter 7 - Step 5: Correlation matrix](#ch7)
-8. [Chapter 8 - Step 6: Positive correlated features](#ch8)
-9. [Chapter 9 - Step 7: Uncorrelated features](#ch9)
-10. [Chapter 10 - Step 8: Negative correlated features](#ch10)
+1. [Project Overview](#ch1)
+2. [EDA Definition and Steps](#ch2)
+3. [Step 1: Data Gathering](#ch3)
+4. [Step 2: Head and describe](#ch4)
+5. [Step 3: Target distribution](#ch5)
+6. [Step 4: Features distribution](#ch6)
+7. [Step 5: Correlation matrix](#ch7)
+8. [Step 6: Positive correlated features](#ch8)
+9. [Step 7: Uncorrelated features](#ch9)
+10. [Step 8: Negative correlated features](#ch10)
 
 11. [References](#ch90)
 
