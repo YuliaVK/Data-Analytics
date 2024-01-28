@@ -30,7 +30,7 @@ Achieving this objective would require a detailed analysis of data related to va
 The aim of the analysis is to gain insight on:
 1. Understanding the overall trends and patterns of crime in London Boroughs.
 2. Identifying the specific crime types that are most prevalent in the city.
-3. Analyzing correlation with population density and with number of tourist attractions in each Borough.
+3. Analyzing correlation with population density and with a number of tourist attractions in each Borough.
 4. Examining the impact of the COVID-19 pandemic on crime rates and understanding any resulting shifts or changes in criminal behavior.
 5. Uncovering any unique factors or insights that could contribute to a deeper understanding of crime dynamics in the city.
 6. Making final data preparation and suggestions prior the data modeling.
@@ -38,15 +38,15 @@ The aim of the analysis is to gain insight on:
 <a id="ch2"></a>
 # EDA Definition and Steps
 
-Exploratory Data Analysis (EDA) is a versatile data analysis tool that can help us better understand the relationships between data set variables. This can often be done through data visualization methods. This makes it easier to discover patterns, spot anomalies, test a hypothesis, or check assumptions. 
+Exploratory Data Analysis (EDA) is a versatile data analysis tool that can help us better understand the relationships between dataset variables. This can often be done through data visualisation methods. This makes it easier to discover patterns, spot anomalies, test a hypothesis, or check assumptions. 
 
-The process of data analysis involves organizing and summarizing the raw data, discovering important features and patterns in the data, and interpreting the findings.
+The process of data analysis involves organising and summarising the raw data, discovering important features and patterns in the data, and interpreting the findings.
 
 Some outcomes of EDA:
 
 - Extracting averages, mean, minimum, and maximum values can help us better understand variables.
 - We can use the data to identify obvious potenital errors, outliers, and missing values.
-- Identify patterns in data by visualizing it in graphs. For example, box plots, scatter plots, and histograms can help us see patterns in the data.
+- Identify patterns in data by visualising it in graphs. For example, box plots, scatter plots, and histograms can help us see patterns in the data.
 
 In this summary, I will focus on the steps of EDA. I will explain what each step is and what it involves.:
 
