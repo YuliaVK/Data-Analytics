@@ -3,6 +3,21 @@
 
 This part of portfolio focuses on my data analysis approach for [Neighbourhood Safety Prediction Project](https://github.com/mlsystemdesignproject/neighbourhood-safety-prediction#readme) using a simple step-by-step explanation.
 
+<details>
+  <summary><h3>Table of Contents</h3>
+  </summary>
+  
+|   |   |
+| -------- | ------- |
+| 1. [Project Overview](#ch1) | 6. [Step 4: Features distribution](#ch6) |
+| 2. [EDA Definition and Steps](#ch2) | 7. [Step 5: Correlation matrix](#ch7) |
+| 3. [Step 1: Data Gathering](#ch3) | 8. [Step 6: Positive correlated features](#ch8) |
+| 4. [Step 2: Head and describe](#ch4) | 9. [Step 7: Uncorrelated features](#ch9) |
+| 5. [Step 3: Target distribution](#ch5) | 10. [Step 8: Negative correlated features](#ch10) |
+11. [References](#ch90)
+
+</details>
+<!--
 ### Table of Contents
 |   |   |
 | -------- | ------- |
@@ -14,7 +29,7 @@ This part of portfolio focuses on my data analysis approach for [Neighbourhood S
 11. [References](#ch90)
 
 <details>
-  <summary>Table of Contents
+  <summary><b>Table of Contents</b>
   </summary>
 
 1. [Project Overview](#ch1)
@@ -30,6 +45,7 @@ This part of portfolio focuses on my data analysis approach for [Neighbourhood S
 11. [References](#ch90) 
 
 </details>
+-->
   
 <a id="ch1"></a>
 # Project Overview
