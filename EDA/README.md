@@ -3,8 +3,20 @@
 
 This part of portfolio focuses on my data analysis approach for [Neighbourhood Safety Prediction Project](https://github.com/mlsystemdesignproject/neighbourhood-safety-prediction#readme) using a simple step-by-step explanation.
 
+### Table of Contents
+|   |   |
+| -------- | ------- |
+| 1. [Project Overview](#ch1) | 6. [Step 4: Features distribution](#ch6) |
+| 2. [EDA Definition and Steps](#ch2) | 7. [Step 5: Correlation matrix](#ch7) |
+| 3. [Step 1: Data Gathering](#ch3) | 8. [Step 6: Positive correlated features](#ch8) |
+| 4. [Step 2: Head and describe](#ch4) | 9. [Step 7: Uncorrelated features](#ch9) |
+| 5. [Step 3: Target distribution](#ch5) | 10. [Step 8: Negative correlated features](#ch10) |
+11. [References](#ch90)
 
-# Table of Contents
+<details>
+  <summary>Table of Contents
+  </summary>
+
 1. [Project Overview](#ch1)
 2. [EDA Definition and Steps](#ch2)
 3. [Step 1: Data Gathering](#ch3)
@@ -15,10 +27,10 @@ This part of portfolio focuses on my data analysis approach for [Neighbourhood S
 8. [Step 6: Positive correlated features](#ch8)
 9. [Step 7: Uncorrelated features](#ch9)
 10. [Step 8: Negative correlated features](#ch10)
+11. [References](#ch90) 
 
-11. [References](#ch90)
-
-
+</details>
+  
 <a id="ch1"></a>
 # Project Overview
 >The primary objective of our team is to develop a machine learning model that can accurately predict future safety levels for different London Boroughs. <!-- The aim of this effort is to enhance safety in London neighbourhoods through efficient resource allocation and by making relevant information available to residents. -->
