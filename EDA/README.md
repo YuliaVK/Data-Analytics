@@ -4,7 +4,7 @@
 This part of portfolio focuses on my data analysis approach for [Neighbourhood Safety Prediction Project](https://github.com/mlsystemdesignproject/neighbourhood-safety-prediction#readme) using a simple step-by-step explanation.
 
 <details>
-  <summary><h1>Table of Contents</h1>
+  <summary><h3>Table of Contents</h3>
   </summary>
   
 |   |   |
