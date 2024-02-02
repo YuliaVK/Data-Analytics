@@ -35,12 +35,12 @@ This part of portfolio focuses on my data analysis approach for [Neighbourhood S
 </details>
   
 <a id="ch1"></a>
-# Project Overview
+## Project Overview
 >The primary objective of our team is to develop a machine learning model that can accurately predict future safety levels for different London Boroughs. <!-- The aim of this effort is to enhance safety in London neighbourhoods through efficient resource allocation and by making relevant information available to residents. -->
 
 Achieving this objective would require a detailed analysis of data related to various factors that can impact safety, such as past crime rates, demographic information, economic indicators and others. 
 
-The aim of the analysis is to gain insight on:
+#### **The aim of the analysis** is to gain insight on:
 1. Understanding the overall trends and patterns of crime in London Boroughs.
 2. Identifying the specific crime types that are most prevalent in the city.
 3. Analyzing correlation with population density and with a number of tourist attractions in each Borough.
@@ -49,7 +49,7 @@ The aim of the analysis is to gain insight on:
 6. Making final data preparation and suggestions prior the data modeling.
 
 <a id="ch2"></a>
-# EDA Definition and Steps
+## EDA Definition and Steps
 
 Exploratory Data Analysis (EDA) is a versatile data analysis tool that can help us better understand the relationships between dataset variables. This can often be done through data visualisation methods. This makes it easier to discover patterns, spot anomalies, test a hypothesis, or check assumptions. 
 
@@ -73,41 +73,41 @@ In this summary, I will focus on the steps of EDA. I will explain what each step
 
 <a id="ch3"></a>
 
-# Step 1: Data Gathering
+## Step 1: Data Gathering
 
 
 <a id="ch4"></a>
 
-# Step 2: Head and describe
+## Step 2: Head and describe
 
 <a id="ch5"></a>
 
-# Step 3: Target distribution
+## Step 3: Target distribution
 
 
 <a id="ch6"></a>
 
-# Step 4: Features distribution 
+## Step 4: Features distribution 
 
 <a id="ch7"></a>
 
-# Step 5: Correlation matrix
+## Step 5: Correlation matrix
 
 <a id="ch8"></a>
 
-# Step 6: Positive correlated features
+## Step 6: Positive correlated features
 
 <a id="ch9"></a>
 
-# Step 7: Uncorrelated features
+## Step 7: Uncorrelated features
 
 <a id="ch10"></a>
 
-# Step 8: Negative correlated features
+## Step 8: Negative correlated features
 
 
 <a id="ch90"></a>
 
-# References
+## References
 
 
