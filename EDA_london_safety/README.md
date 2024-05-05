@@ -43,8 +43,8 @@ Achieving this objective would require a detailed analysis of data related to va
 #### **The aim of the analysis** is to gain insight on:
 1. Understanding the overall trends and patterns of crime in London Boroughs.
 2. Identifying the specific crime types that are most prevalent in the city.
-3. Analyzing correlation with population density and with a number of tourist attractions in each Borough.
-4. Examining the impact of the COVID-19 pandemic on crime rates and understanding any resulting shifts or changes in criminal behavior.
+3. Analysing correlation with population density and with a number of tourist attractions in each Borough.
+4. Examining the impact of the COVID-19 pandemic on crime rates and understanding any resulting shifts or changes in criminal behaviour.
 5. Uncovering any unique factors or insights that could contribute to a deeper understanding of crime dynamics in the city.
 6. Making final data preparation and suggestions prior the data modeling.
 
