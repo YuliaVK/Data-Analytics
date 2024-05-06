@@ -46,7 +46,7 @@ Achieving this objective would require a detailed analysis of data related to va
 3. Analysing the correlation of crime with population density and with the number of tourist attractions in each Borough.
 4. Examining the impact of the COVID-19 pandemic on crime rates and understanding any resulting shifts or changes in criminal behaviour.
 5. Uncovering any unique factors or insights that could contribute to a deeper understanding of crime dynamics in the city.
-6. Making final data preparation and suggestions prior the data modeling.
+6. Making final data preparation and suggestions prior to the data modeling.
 
 <a id="ch2"></a>
 ## EDA Definition and Steps
